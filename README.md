@@ -1,4 +1,4 @@
-# Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="25px">
 
 **Computer Science Major @ University of Utah**  
 AI Enthusiast | Software Developer | Problem Solver
@@ -14,8 +14,9 @@ I’m a passionate Computer Science student with a strong focus on AI, particula
 ### 🛠️ Projects
 
 - **MedRAG**  
-  *LLM and Graph RAG Project | May 2024 - Present | Team Member
-  *Developing a Retrieval-Augmented Generation (RAG) system to enhance medical support using knowledge graphs and large language models. This project focuses on improving real-time decision-making for medical professionals in  
+  *LLM and Graph RAG Project | May 2024 - Present | Team Member*
+
+  Developing a Retrieval-Augmented Generation (RAG) system to enhance medical support using knowledge graphs and large language models. This project focuses on improving real-time decision-making for medical professionals in  
   challenging environments.
 
 - **GUI Based Password Manager**  
