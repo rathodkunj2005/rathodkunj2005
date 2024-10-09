@@ -14,8 +14,8 @@ I’m a passionate Computer Science student with a strong focus on AI, particula
 ### 🛠️ Projects
 
 - **MedRAG**  
-  *LLM and Graph RAG Project | May 2024 - Present | Team Member* 
-  Developing a Retrieval-Augmented Generation (RAG) system to enhance medical support using knowledge graphs and large language models. This project focuses on improving real-time decision-making for medical professionals in  
+  *LLM and Graph RAG Project | May 2024 - Present | Team Member
+  *Developing a Retrieval-Augmented Generation (RAG) system to enhance medical support using knowledge graphs and large language models. This project focuses on improving real-time decision-making for medical professionals in  
   challenging environments.
 
 - **GUI Based Password Manager**  
