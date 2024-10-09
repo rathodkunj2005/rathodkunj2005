@@ -33,8 +33,8 @@ I’m a passionate Computer Science student with a strong focus on AI, particula
 
 ### 💻 Skills
 
-- **Languages:** Java, Python, HTML, CSS, JavaScript
-- **Specialties:** GUI Design, Game Development, AI, RAG Systems
+- **Languages:** Java, Python, C Sharp
+- **Specialties:** RAG Systems, AI Agents
 
 ### 🌱 Interests
 
