@@ -3,7 +3,7 @@
 **Computer Science Major @ University of Utah**  
 **Intern @ CourtEasy.ai** | AI Enthusiast | Software Developer | Problem Solver
 
-[LinkedIn](https://www.linkedin.com/in/rathodkunj/) | [Portfolio](https://kunjrathod.framer.ai/) | Salt Lake City, UT
+[LinkedIn](https://www.linkedin.com/in/rathodkunj/) | [Portfolio](https://kunjrathod.framer.ai/) | Salt Lake City, UT 
 
 ---
 
@@ -14,29 +14,45 @@ I’m a passionate Computer Science student with a strong focus on AI, particula
 ### 🛠️ Projects
 
 - **BioGraphRAG**  
-  *LLM and Graph RAG Project | May 2024 - Present | Team Member*
+  *LLM and Graph RAG Project | May 2024 - Nov 2024 | Team Member*
 
-  Developed a Graph RAG (Retrieval-Augmented Generation) system to enhance medical support using knowledge graphs and large language models. This project focuses on improving real-time decision-making for medical professionals in  
-  challenging environments.
+  Developed a Graph RAG (Retrieval-Augmented Generation) system to enhance medical support using knowledge graphs and large language models. This project focused on improving real-time decision-making for medical professionals in challenging environments.
 
-- **GUI Based Password Manager**  
-  *Python | June 2023 - July 2023*  
-  Created a secure and user-friendly password manager using Python and Tkinter, featuring strong password generation, secure storage, and robust user verification.
+- **Multi-Agent Collaboration for Financial Analysis**  
+  *CrewAI, LangChain | Nov 2024*  
+  Engineered a collaborative AI system with specialized agents for financial analysis, ensuring seamless communication and real-time decision-making. Tasks included creating trading strategies, analyzing risks, and managing efficient task delegation among agents.
 
-- **SignDoc**  
-  *HTML, CSS, JavaScript | December 2023 - January 2024*  
-  Built a web application for creating digital signatures with customizable features like pen color, line width, and dark mode. Deployed on Vercel.
+- **Chatting Application**  
+  *C# Networking | Nov 2024*  
+  Built a multi-threaded C# client-server system for real-time communication, integrating logging and debugging for optimized performance.
 
-- **Astros Adventure**  
-  *Python Game Development | November 2023 - December 2023*  
-  Collaborated on a space-themed game featuring unique challenges across three levels, demonstrating teamwork and problem-solving in game development.
+- **Full Stack Spreadsheet**  
+  *C#, MVC Architecture | Sep 2024 - Oct 2024*  
+  Developed a spreadsheet application with dependency graphs and JSON serialization for robust functionality. Followed DRY principles and implemented comprehensive unit tests to ensure reliability and maintainability.
 
 ### 💻 Skills
 
-- **Languages:** Java, Python, C Sharp
-- **Specialties:** RAG Systems, AI Agents
+- **Languages:** Python, Java, C#, C++
+- **AI/ML Frameworks:** LangChain, Hugging Face, LLama Index
+- **Specialties:** RAG Systems, AI Agents, Systems Programming, Machine Learning Algorithms
+- **Tools:** Docker, GitHub, GraphQL, VS Code
 
 ### 🌱 Interests
 
 - **Tech:** Exploring LLMs, AI, and the black-box nature of machine learning.
 - **Hobbies:** Mountain Biking, Badminton
+
+---
+
+### 🏢 Education
+
+- **University of Utah**  
+  *Bachelor of Science, Computer Science | Aug 2023 - Jul 2026*
+
+---
+
+### 🛡️ Contact
+
+- **Email:** [edu.rathodkunj@gmail.com](mailto:edu.rathodkunj@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/rathodkunj](https://www.linkedin.com/in/rathodkunj/)  
+- **GitHub:** [github.com/rathodkunj2005](https://github.com/rathodkunj2005)
