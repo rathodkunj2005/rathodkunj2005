@@ -1,58 +1,61 @@
 # Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="25px">
 
 **Computer Science Major @ University of Utah**  
-**Intern @ CourtEasy.ai** | AI Enthusiast | Software Developer | Problem Solver
+**SUDO Intern @ University of Utah** | **AI Residency @ CourtEasy.ai** | **Tech Enthusiast | Software Developer | Cloud & AI Innovator**  
 
-[LinkedIn](https://www.linkedin.com/in/rathodkunj/) | [Portfolio](https://kunjrathod.framer.ai/) | Salt Lake City, UT 
+[LinkedIn](https://www.linkedin.com/in/rathodkunj/) | [Portfolio](https://kunjrathod.framer.ai/) | Salt Lake City, UT  
 
 ---
 
-### 👋 About Me
+### 👋 About Me  
 
-I’m a passionate Computer Science student with a strong focus on AI, particularly in Retrieval-Augmented Generation (RAG) systems. My curiosity drives me to quickly learn and apply new technologies, with a keen eye for detail. I thrive in roles that challenge my organizational and problem-solving skills.
+I’m an AI-driven software developer passionate about **cloud computing, AI, and GenAI applications**. My work focuses on deploying **AI-driven solutions**, optimizing **RAG systems**, and integrating **AWS cloud technologies** for research, education, and healthcare. I love tackling **high-impact problems** with cutting-edge tools.  
 
-### 🛠️ Projects
+Currently, I'm working on **GenAI infrastructure at the University of Utah** and **building AI-powered legal tech solutions at CourtEasy.ai**.  
+
+### 🛠️ Projects  
 
 - **BioGraphRAG**  
-  *LLM and Graph RAG Project | May 2024 - Nov 2024 | Team Member*
-
-  Developed a Graph RAG (Retrieval-Augmented Generation) system to enhance medical support using knowledge graphs and large language models. This project focused on improving real-time decision-making for medical professionals in challenging environments.
+  *LLM and Graph RAG | May 2024 - Nov 2024*  
+  Developed a **Graph RAG system** integrating **UniProt, AlphaFold, RXNav, and Nebula Graph** for advanced medical decision support. Optimized retrieval latency and managed deployment using **Docker and Llama Index**.  
 
 - **Multi-Agent Collaboration for Financial Analysis**  
   *CrewAI, LangChain | Nov 2024*  
-  Engineered a collaborative AI system with specialized agents for financial analysis, ensuring seamless communication and real-time decision-making. Tasks included creating trading strategies, analyzing risks, and managing efficient task delegation among agents.
+  Built an AI system with specialized agents (**Data Analyst, Trading Strategy Developer, Trade Advisor, Risk Advisor**) to **automate financial analysis and trading strategies** using **multi-agent collaboration**.
 
-- **Chatting Application**  
-  *C# Networking | Nov 2024*  
-  Built a multi-threaded C# client-server system for real-time communication, integrating logging and debugging for optimized performance.
+### Experience
 
-- **Full Stack Spreadsheet**  
-  *C#, MVC Architecture | Sep 2024 - Oct 2024*  
-  Developed a spreadsheet application with dependency graphs and JSON serialization for robust functionality. Followed DRY principles and implemented comprehensive unit tests to ensure reliability and maintainability.
+- **GenAI AWS Deployment for Research & Healthcare**  
+  *AWS Lambda, AWS Bedrock | 2025*  
+  Assisting in **deploying and optimizing GenAI applications** at the **University of Utah and UHealth**. Working on **AWS cloud infrastructure** to support AI-driven research and healthcare solutions.  
 
-### 💻 Skills
+- **AI-Powered Legal Tech (CourtEasy.ai)**  
+  *LLMs, RAG, REST APIs | 2024 - Present*  
+  Developing **scalable legal AI solutions** by integrating **domain-specific LLMs** and optimizing **retrieval-augmented generation (RAG)** for legal research.  
 
-- **Languages:** Python, Java, C#, C++
-- **AI/ML Frameworks:** LangChain, Hugging Face, LLama Index
-- **Specialties:** RAG Systems, AI Agents, Systems Programming, Machine Learning Algorithms
-- **Tools:** Docker, GitHub, GraphQL, VS Code
+### 💻 Skills  
 
-### 🌱 Interests
+- **Languages:** Python, Java, C#, C++  
+- **AI & Cloud:** LangChain, Llama Index, RAGs, AWS Lambda, AWS Bedrock  
+- **Specialties:** Multi-Agent AI, Knowledge Graphs, AI Deployment, Systems Programming  
+- **Tools:** Docker, Kubernetes, GitHub, REST APIs  
 
-- **Tech:** Exploring LLMs, AI, and the black-box nature of machine learning.
-- **Hobbies:** Mountain Biking, Badminton
+### 🌱 Interests  
+
+- **Tech:** Cloud AI, Multi-Agent Systems, Machine Learning  
+- **Hobbies:** Mountain Biking, Badminton  
 
 ---
 
-### 🏢 Education
+### 🏢 Education  
 
 - **University of Utah**  
-  *Bachelor of Science, Computer Science | Aug 2023 - Jul 2026*
+  *Bachelor of Science, Computer Science | Aug 2023 - Jul 2026*  
 
 ---
 
-### 🛡️ Contact
+### 🛡️ Contact  
 
 - **Email:** [edu.rathodkunj@gmail.com](mailto:edu.rathodkunj@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/rathodkunj](https://www.linkedin.com/in/rathodkunj/)  
-- **GitHub:** [github.com/rathodkunj2005](https://github.com/rathodkunj2005)
+- **GitHub:** [github.com/rathodkunj2005](https://github.com/rathodkunj2005)  
