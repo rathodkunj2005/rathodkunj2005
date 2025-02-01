@@ -13,7 +13,12 @@ I’m an AI-driven software developer passionate about **cloud computing, AI, an
 
 Currently, I'm working on **GenAI infrastructure at the University of Utah** and **building AI-powered legal tech solutions at CourtEasy.ai**.  
 
-### 🛠️ Projects  
+### 🛠️ Projects
+
+- **Drug Repurposing Assistant (Ongoing)**
+
+  *DeepSeek R1, RAG, FastAPI, Chainlit | 2025*
+  Developing an AI-driven assistant for drug repurposing, integrating reasoning models (DeepSeek R1) with drug and chemical databases. The system utilizes Retrieval-Augmented Generation (RAG)    and an agentic research framework to enhance biomedical insights. 
 
 - **BioGraphRAG**  
   *LLM and Graph RAG | May 2024 - Nov 2024*  
