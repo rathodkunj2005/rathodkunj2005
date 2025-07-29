@@ -1,66 +1,96 @@
-# Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="25px">
+# 👋 Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 **Computer Science Major @ University of Utah**  
-**SUDO Intern @ University of Utah** | **AI Residency @ CourtEasy.ai** | **Tech Enthusiast | Software Developer | Cloud & AI Innovator**  
-
-[LinkedIn](https://www.linkedin.com/in/rathodkunj/) | [Portfolio](https://kunjrathod.framer.ai/) | Salt Lake City, UT  
-
----
-
-### 👋 About Me  
-
-I’m an AI-driven software developer passionate about **cloud computing, AI, and GenAI applications**. My work focuses on deploying **AI-driven solutions**, optimizing **RAG systems**, and integrating **AWS cloud technologies** for research, education, and healthcare. I love tackling **high-impact problems** with cutting-edge tools.  
-
-Currently, I'm working on **GenAI infrastructure at the University of Utah** and **building AI-powered legal tech solutions at CourtEasy.ai**.  
-
-### 🛠️ Projects
-
-- **Drug Repurposing Assistant (Ongoing)**
-
-  *DeepSeek R1, RAG, FastAPI, Chainlit | 2025*
-  Developing an AI-driven assistant for drug repurposing, integrating reasoning models (DeepSeek R1) with drug and chemical databases. The system utilizes Retrieval-Augmented Generation (RAG)    and an agentic research framework to enhance biomedical insights. 
-
-- **BioGraphRAG**  
-  *LLM and Graph RAG | May 2024 - Nov 2024*  
-  Developed a **Graph RAG system** integrating **UniProt, AlphaFold, RXNav, and Nebula Graph** for advanced medical decision support. Optimized retrieval latency and managed deployment using **Docker and Llama Index**.  
-
-- **Multi-Agent Collaboration for Financial Analysis**  
-  *CrewAI, LangChain | Nov 2024*  
-  Built an AI system with specialized agents (**Data Analyst, Trading Strategy Developer, Trade Advisor, Risk Advisor**) to **automate financial analysis and trading strategies** using **multi-agent collaboration**.
-
-### Experience
-
-- **GenAI AWS Deployment for Research & Healthcare**  
-  *AWS Lambda, AWS Bedrock | 2025*  
-  Assisting in **deploying and optimizing GenAI applications** at the **University of Utah and UHealth**. Working on **AWS cloud infrastructure** to support AI-driven research and healthcare solutions.  
-
-- **AI-Powered Legal Tech (CourtEasy.ai)**  
-  *LLMs, RAG, REST APIs | 2024 - Present*  
-  Developing **scalable legal AI solutions** by integrating **domain-specific LLMs** and optimizing **retrieval-augmented generation (RAG)** for legal research.  
-
-### 💻 Skills  
-
-- **Languages:** Python, Java, C#, C++  
-- **AI & Cloud:** LangChain, Llama Index, RAGs, AWS Lambda, AWS Bedrock  
-- **Specialties:** Multi-Agent AI, Knowledge Graphs, AI Deployment, Systems Programming  
-- **Tools:** Docker, Kubernetes, GitHub, REST APIs  
-
-### 🌱 Interests  
-
-- **Tech:** Cloud AI, Multi-Agent Systems, Machine Learning  
-- **Hobbies:** Mountain Biking, Badminton  
+**SUDO Intern @ University of Utah** • **AI Resident @ CourtEasy.ai**  
+🌐 [Portfolio](https://kunjrathod.framer.ai/) • [LinkedIn](https://www.linkedin.com/in/rathodkunj/) • [Wingman.ai](https://www.wingmanai.life/) • 📍 Salt Lake City, UT  
 
 ---
 
-### 🏢 Education  
+## 🧠 About Me
 
-- **University of Utah**  
-  *Bachelor of Science, Computer Science | Aug 2023 - Jul 2026*  
+I’m an early-career AI developer building full-stack applications at the intersection of **AI, cloud, and healthcare/legal tech**.  
+From HIPAA-conscious hospital LLM interfaces to legal AI benchmarks, I specialize in solving real-world problems with high-performance AI systems.
 
 ---
 
-### 🛡️ Contact  
+## 🛠️ Experience
 
-- **Email:** [edu.rathodkunj@gmail.com](mailto:edu.rathodkunj@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/rathodkunj](https://www.linkedin.com/in/rathodkunj/)  
-- **GitHub:** [github.com/rathodkunj2005](https://github.com/rathodkunj2005)  
+### 💻 Software Development Intern, AI Services – University of Utah (SUDO)  
+*Jan 2025 – Present*  
+- Co-built a secure, HIPAA-conscious chat platform for hospital staff to interact with LLMs grounded on internal data  
+- Built React-based frontend and scalable AWS backends (Lambda, S3, Bedrock) for dynamic LLM selection and file uploads  
+- Reduced LLM inference latency by **40%** and improved retrieval query speed by **60%** via caching + DB optimizations  
+- Enabled real-time interactions with hospital data through a secure, fault-tolerant infrastructure  
+
+### ⚖️ AI Engineering Intern – CourtEasy.ai  
+*Nov 2024 – Apr 2025*  
+- Processed and structured **10M+ Indian legal documents** across statutes, orders, and metadata  
+- Built **task-specific RAG pipelines** improving retrieval accuracy by **28%** and reducing hallucinations by **35%**  
+- Benchmarked LLMs (InLegalBERT, InLegalLLaMA, GPT-4o-mini) across 20+ tasks using LegalBench, NyayaAnumana, etc.  
+- Synthesized 15+ research papers into internal strategy docs for legal AI design and evaluation
+
+---
+
+## 🚀 Projects
+
+### 📱 Wingman.ai – AI Personal Assistant Mobile App  
+*React Native, SwiftUI, OpenAI API, Firebase*  
+- Developed multi-modal AI assistant using GPT-4o and Whisper to process chat, voice, and image input  
+- Integrated Google Calendar, secure Firebase Auth, and real-time data sync  
+- Built MVVM-based SwiftUI interface with Combine for reactive state management  
+- Supports 1000+ daily users with offline capabilities and personalized memory recall (RAG)
+
+---
+
+### 🧬 BioGraphRAG – Biomedical Knowledge Graph Retrieval  
+*Python, NebulaGraph, LlamaIndex, Docker, Chainlit*  
+- Designed and deployed a distributed GraphRAG platform querying **1M+ biomedical entities**  
+- Integrated UniProt, AlphaFold, RXNav into ETL pipeline with deduplication + validation  
+- Reduced query latency 3x via high-degree node analysis, caching, and graph schema refinement  
+- Powered explainable, up-to-date responses by augmenting LLMs with structured graph data
+
+---
+
+### 💊 Drug Repurposing Intelligence Platform  
+*SwiftUI, Flask, PostgreSQL, Docker, Ollama (DeepSeek 7B)*  
+- Built AI-driven iOS app for querying **50+ rare diseases** and visualizing drug repurposing recommendations  
+- Fine-tuned DeepSeek 7B on biomedical data, achieving **92% accuracy** in drug-disease matching  
+- Integrated data from DrugBank, PubMed, ClinicalTrials.gov, etc. with robust REST APIs  
+- Designed for real-time usage by researchers and clinicians, emphasizing security and speed
+
+---
+
+## 🧰 Technical Skills
+
+**Languages**: Python, Java, C++, C#, JavaScript, TypeScript, Swift, SQL  
+**Frameworks**: React, Flask, Node.js  
+**AI/ML**: OpenAI API, Ollama, LlamaIndex, LangChain, TensorFlow, RAG/GraphRAG, Multi-Agent Systems, MLflow  
+**Cloud**: AWS (Lambda, S3, RDS, DynamoDB, Bedrock), Firebase, Docker  
+**Databases**: PostgreSQL, Vector Stores, NebulaGraph  
+
+---
+
+## 🎓 Education
+
+**University of Utah**, Salt Lake City, UT  
+*B.S. in Computer Science, Aug 2023 – May 2027*  
+GPA: 3.7 / 4.0  
+**Relevant Coursework**: Machine Learning, NLP, Computer Vision, Data Structures & Algorithms, DB Systems
+
+---
+
+## 🌱 Interests
+
+- 🧠 Cloud AI Systems  
+- ⚙️ Retrieval-Augmented Generation (RAG)  
+- 🤖 Multi-Agent AI  
+- 🔬 Bioinformatics & Legal AI  
+- 🎯 Research-driven development
+
+---
+
+## 📬 Contact
+
+- ✉️ **Email**: [edu.rathodkunj@gmail.com](mailto:edu.rathodkunj@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rathodkunj](https://www.linkedin.com/in/rathodkunj/)  
+- 💻 **GitHub**: [github.com/rathodkunj2005](https://github.com/rathodkunj2005)  
