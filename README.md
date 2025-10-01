@@ -20,7 +20,16 @@ From HIPAA-conscious hospital LLM interfaces to legal AI benchmarks, I specializ
 - Co-built a secure, HIPAA-conscious chat platform for hospital staff to interact with LLMs grounded on internal data  
 - Built React-based frontend and scalable AWS backends (Lambda, S3, Bedrock) for dynamic LLM selection and file uploads  
 - Reduced LLM inference latency by **40%** and improved retrieval query speed by **60%** via caching + DB optimizations  
-- Enabled real-time interactions with hospital data through a secure, fault-tolerant infrastructure  
+- Enabled real-time interactions with hospital data through a secure, fault-tolerant infrastructure
+  
+### 🧑🏽‍🔬 Undergraduate Researcher – AI & Aerospace Materials - STARS Lab, University of Utah
+*Aug 2025 – Present*                         Collaborations with NASA, MIT, Microsoft, DoD
+- Advancing AI-driven materials discovery by developing ML pipelines for high-throughput experimentation,
+computational modeling, and aerospace materials design.
+- Integrating large language models (LLMs) and multi-agent AI systems to streamline knowledge sharing,
+automate literature mining, and enhance decision support across interdisciplinary research teams.
+- Collaborating with cross-domain experts in computer science and materials engineering to design AI workflows
+that accelerate research in rocket engines, hypersonics, and in-space manufacturing.
 
 ### ⚖️ AI Engineering Intern – CourtEasy.ai  
 *Nov 2024 – Apr 2025*  
