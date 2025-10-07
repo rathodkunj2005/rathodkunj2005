@@ -2,7 +2,7 @@
 
 **Computer Science Major @ University of Utah**  
 **SUDO Intern @ University of Utah** • **AI Resident @ CourtEasy.ai**  
-🌐 [Portfolio](https://kunjrathod.framer.ai/) • [LinkedIn](https://www.linkedin.com/in/rathodkunj/) • [Wingman.ai](https://www.wingmanai.life/) • 📍 Salt Lake City, UT  
+🌐 [Portfolio](https://kunjrathod.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rathodkunj/) • [Wingman.ai](https://www.wingmanai.life/) • 📍 Salt Lake City, UT  
 
 ---
 
