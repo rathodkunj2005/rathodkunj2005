@@ -1,7 +1,7 @@
 # Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 **Computer Science Major @ University of Utah**  
-**SUDO Intern @ University of Utah** • **AI Resident @ CourtEasy.ai**  
+**AITS Intern @ University of Utah** • **AI Resident @ CourtEasy.ai**  
 🌐 [Portfolio](https://kunjrathod.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rathodkunj/) • [Wingman.ai](https://www.wingmanai.life/) • 📍 Salt Lake City, UT  
 
 ---
@@ -9,15 +9,15 @@
 ## 🧠 About Me
 
 I’m an early-career AI developer building full-stack applications at the intersection of **AI, cloud, and healthcare/legal tech**.  
-From HIPAA-conscious hospital LLM interfaces to legal AI benchmarks, I specialize in solving real-world problems with high-performance AI systems.
+From HIPAA-compliant hospital LLM interfaces to legal AI benchmarks, I specialize in solving real-world problems with high-performance AI systems.
 
 ---
 
 ## 🛠️ Experience
 
-### 💻 Software Development Intern, AI Services – University of Utah (SUDO)  
+### 💻 Software Development Intern, AI Services – University of Utah (AITS)  
 *Jan 2025 – Present*  
-- Co-built a secure, HIPAA-conscious chat platform for hospital staff to interact with LLMs grounded on internal data  
+- Co-built a secure, HIPAA-compliant chat platform for hospital staff to interact with LLMs grounded on internal data  
 - Built React-based frontend and scalable AWS backends (Lambda, S3, Bedrock) for dynamic LLM selection and file uploads  
 - Reduced LLM inference latency by **40%** and improved retrieval query speed by **60%** via caching + DB optimizations  
 - Enabled real-time interactions with hospital data through a secure, fault-tolerant infrastructure
