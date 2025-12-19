@@ -1,7 +1,7 @@
 # Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 **Computer Science Major @ University of Utah**  
-**AITS Intern @ University of Utah** • **AI Resident @ CourtEasy.ai**  
+**Incoming SWE Intern @ Microsoft | AI Intern @ UIT | CS @ University of Utah**  
 🌐 [Portfolio](https://kunjrathod.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rathodkunj/) • [Wingman.ai](https://www.wingmanai.life/) • 📍 Salt Lake City, UT  
 
 ---
