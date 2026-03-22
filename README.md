@@ -4,7 +4,7 @@
 
 **Computer Science Major @ University of Utah**  
 **Incoming SWE Intern @ Microsoft | AI Intern @ UIT | CS @ University of Utah**  
-🌐 [Portfolio](https://kunjrathod.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/rathodkunj/) • [Wingman.ai](https://www.wingmanai.life/) • 📍 Salt Lake City, UT  
+🌐 [Portfolio](https://kunjrathod.com/) • [LinkedIn](https://www.linkedin.com/in/rathodkunj/) • [Wingman.ai](https://www.wingmanai.life/) • 📍 Salt Lake City, UT  
 
 ---
 
