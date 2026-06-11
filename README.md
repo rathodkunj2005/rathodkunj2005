@@ -1,6 +1,6 @@
 # Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**Incoming SWE Intern @ Microsoft**
+**SWE Intern @ Microsoft**
 
 **Computer Science Major @ University of Utah**  
 **Incoming SWE Intern @ Microsoft | AI Intern @ UIT | CS @ University of Utah**  
