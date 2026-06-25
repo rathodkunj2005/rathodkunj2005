@@ -1,107 +1,96 @@
-# Hi, I’m Kunj Rathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kunj+Rathod+%F0%9F%91%8B;ML+Researcher+%7C+Web+Agent+Builder;LLM+Internals+%26+Knowledge+Graphs;Always+building+something+new" alt="Typing SVG" />
+</div>
 
-**SWE Intern @ Microsoft**
-
-**Computer Science Major @ University of Utah**  
-**Incoming SWE Intern @ Microsoft | AI Intern @ UIT | CS @ University of Utah**  
-🌐 [Portfolio](https://kunjrathod.com/) • [LinkedIn](https://www.linkedin.com/in/rathodkunj/) • [Wingman.ai](https://www.wingmanai.life/) • 📍 Salt Lake City, UT  
+<div align="center">
+  <a href="mailto:rathodkunj2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kunjrathod"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rathodkunj2005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I’m an early-career AI developer building full-stack applications at the intersection of **AI, cloud, and healthcare/legal tech**.  
-From HIPAA-compliant hospital LLM interfaces to legal AI benchmarks, I specialize in solving real-world problems with high-performance AI systems.
+I'm a CS student and ML researcher focused on **web agents**, **LLM internals**, and **task generalization**. I use mechanistic interpretability tools — attribution graphs, sparse feature circuits — to understand *why* language models succeed or fail at novel tasks, and I build agentic systems that can navigate the web and operate computers autonomously.
+
+- 🔬 Currently researching: **predicting task generalization via attribution graph analysis**
+- 🤖 Building: long-horizon computer-use agents (OSWorld, WebArena)
+- 🧩 Interested in: sparse autoencoders, knowledge graphs as LLM context, circuit-level interpretability
+- 📍 Based in the US
 
 ---
 
-## 🛠️ Experience
+## 🔭 Research Interests
 
-### 💻 Software Development Intern, AI Services – University of Utah (AITS)  
-*Jan 2025 – Present*  
-- Co-built a secure, HIPAA-compliant chat platform for hospital staff to interact with LLMs grounded on internal data  
-- Built React-based frontend and scalable AWS backends (Lambda, S3, Bedrock) for dynamic LLM selection and file uploads  
-- Reduced LLM inference latency by **40%** and improved retrieval query speed by **60%** via caching + DB optimizations  
-- Enabled real-time interactions with hospital data through a secure, fault-tolerant infrastructure
-  
-### 🧑🏽‍🔬 Undergraduate Researcher – AI & Aerospace Materials - STARS Lab, University of Utah
-*Aug 2025 – Present*                         Collaborations with NASA, MIT, Microsoft, DoD
-- Advancing AI-driven materials discovery by developing ML pipelines for high-throughput experimentation,
-computational modeling, and aerospace materials design.
-- Integrating large language models (LLMs) and multi-agent AI systems to streamline knowledge sharing,
-automate literature mining, and enhance decision support across interdisciplinary research teams.
-- Collaborating with cross-domain experts in computer science and materials engineering to design AI workflows
-that accelerate research in rocket engines, hypersonics, and in-space manufacturing.
-
-### ⚖️ AI Engineering Intern – CourtEasy.ai  
-*Nov 2024 – Apr 2025*  
-- Processed and structured **10M+ Indian legal documents** across statutes, orders, and metadata  
-- Built **task-specific RAG pipelines** improving retrieval accuracy by **28%** and reducing hallucinations by **35%**  
-- Benchmarked LLMs (InLegalBERT, InLegalLLaMA, GPT-4o-mini) across 20+ tasks using LegalBench, NyayaAnumana, etc.  
-- Synthesized 15+ research papers into internal strategy docs for legal AI design and evaluation
+| Area | What I'm Exploring |
+|------|-------------------|
+| 🕸️ Web & Computer-Use Agents | Long-horizon task completion, AgentSynth trace generation, OSWorld benchmarks |
+| 🧬 LLM Mechanistic Interpretability | Attribution graphs, sparse feature circuits, reasoning vs. reciting distinction |
+| 📊 Task Generalization | Predicting OOD generalization from circuit structure; vignette-based evaluation |
+| 🗺️ Knowledge Graphs as Context | Navigation graphs from accessibility trees injected as LLM context |
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 📱 Wingman.ai – AI Personal Assistant Mobile App  
-*React Native, SwiftUI, OpenAI API, Firebase*  
-- Developed multi-modal AI assistant using GPT-4o and Whisper to process chat, voice, and image input  
-- Integrated Google Calendar, secure Firebase Auth, and real-time data sync  
-- Built MVVM-based SwiftUI interface with Combine for reactive state management  
-- Supports 1000+ daily users with offline capabilities and personalized memory recall (RAG)
+<div align="center">
 
----
+[![HirePilot](https://github-readme-stats.vercel.app/api/pin/?username=rathodkunj2005&repo=HirePilot&theme=tokyonight)](https://github.com/rathodkunj2005/HirePilot)
+[![RePurposeRx](https://github-readme-stats.vercel.app/api/pin/?username=rathodkunj2005&repo=RePurposeRx&theme=tokyonight)](https://github.com/rathodkunj2005/RePurposeRx)
+[![Minute0](https://github-readme-stats.vercel.app/api/pin/?username=rathodkunj2005&repo=Minute0&theme=tokyonight)](https://github.com/rathodkunj2005/Minute0)
 
-### 🧬 BioGraphRAG – Biomedical Knowledge Graph Retrieval  
-*Python, NebulaGraph, LlamaIndex, Docker, Chainlit*  
-- Designed and deployed a distributed GraphRAG platform querying **1M+ biomedical entities**  
-- Integrated UniProt, AlphaFold, RXNav into ETL pipeline with deduplication + validation  
-- Reduced query latency 3x via high-degree node analysis, caching, and graph schema refinement  
-- Powered explainable, up-to-date responses by augmenting LLMs with structured graph data
+</div>
 
 ---
 
-### 💊 Drug Repurposing Intelligence Platform  
-*SwiftUI, Flask, PostgreSQL, Docker, Ollama (DeepSeek 7B)*  
-- Built AI-driven iOS app for querying **50+ rare diseases** and visualizing drug repurposing recommendations  
-- Fine-tuned DeepSeek 7B on biomedical data, achieving **92% accuracy** in drug-disease matching  
-- Integrated data from DrugBank, PubMed, ClinicalTrials.gov, etc. with robust REST APIs  
-- Designed for real-time usage by researchers and clinicians, emphasizing security and speed
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**ML / Research**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-412991?style=flat-square&logoColor=white)
+![TransformerLens](https://img.shields.io/badge/TransformerLens-6C63FF?style=flat-square&logoColor=white)
+
+**Web & Infra**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🧰 Technical Skills
+## 📊 GitHub Stats
 
-**Languages**: Python, Java, C++, C#, JavaScript, TypeScript, Swift, SQL  
-**Frameworks**: React, Flask, Node.js  
-**AI/ML**: OpenAI API, Ollama, LlamaIndex, LangChain, TensorFlow, RAG/GraphRAG, Multi-Agent Systems, MLflow  
-**Cloud**: AWS (Lambda, S3, RDS, DynamoDB, Bedrock), Firebase, Docker  
-**Databases**: PostgreSQL, Vector Stores, NebulaGraph  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rathodkunj2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathodkunj2005&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
----
-
-## 🎓 Education
-
-**University of Utah**, Salt Lake City, UT  
-*B.S. in Computer Science, Aug 2023 – May 2027*  
-GPA: 3.7 / 4.0  
-**Relevant Coursework**: Machine Learning, NLP, Computer Vision, Data Structures & Algorithms, DB Systems
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rathodkunj2005&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🌱 Interests
+## 🌱 Currently Exploring
 
-- 🧠 Cloud AI Systems  
-- ⚙️ Retrieval-Augmented Generation (RAG)  
-- 🤖 Multi-Agent AI  
-- 🔬 Bioinformatics & Legal AI  
-- 🎯 Research-driven development
+- Circuit stability as a predictor of language model generalization (building on Wu et al. 2025)
+- Navigation graph injection as structured context for computer-use agents
+- BrowseComp and UltraHorizon benchmarks for long-horizon web agent evaluation
 
 ---
 
-## 📬 Contact
-
-- ✉️ **Email**: [edu.rathodkunj@gmail.com](mailto:edu.rathodkunj@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/rathodkunj](https://www.linkedin.com/in/rathodkunj/)  
-- 💻 **GitHub**: [github.com/rathodkunj2005](https://github.com/rathodkunj2005)  
+<div align="center">
+  <i>Open to research collaborations and internships. Reach out anytime.</i>
+</div>
